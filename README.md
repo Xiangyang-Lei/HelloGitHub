@@ -48,7 +48,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
   ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=47848F)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=7952B3)
   ![Element](https://img.shields.io/badge/-Element-333333?style=flat&logo=vuedotjs&logoColor=4FC08D)
