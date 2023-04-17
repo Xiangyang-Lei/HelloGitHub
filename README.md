@@ -55,14 +55,12 @@
   ![ECharts](https://img.shields.io/badge/-ECharts-333333?style=flat&logo=apacheecharts&logoColor=AA344D)
 
 - 🔧 &nbsp;
-  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell&logoColor=FFD500)
+  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnubash&logoColor=4EAA25)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
   ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx&logoColor=009639)
 
 - 🖥 &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 
 <br/>
 
