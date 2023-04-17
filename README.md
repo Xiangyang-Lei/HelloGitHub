@@ -26,15 +26,15 @@
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
 
 - 🌐 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFFFFF)
-  ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=239120)
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=00ADD8)
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=000000)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=CC342D)
+  ![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=qt&logoColor=41CD52)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F)
+  ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-333333?style=flat&logo=dotnet&logoColor=512BD4)
+  ![Gin](https://img.shields.io/badge/-Gin-333333?style=flat&logo=go&logoColor=00ADD8)
+  ![Actix Web](https://img.shields.io/badge/-Actix%20Web-333333?style=flat&logo=rust&logoColor=000000)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=000000)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
+  ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=rubyonrails&logoColor=CC0000)
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
