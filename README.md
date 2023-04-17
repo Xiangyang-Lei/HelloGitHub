@@ -50,5 +50,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="mailto:sunray.ley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sunray.ley@gmail.com-blue?style=flat-square&logo=gmail"&logoColor=EA4335></a>
+  <a href="mailto:sunray.ley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sunray.ley@gmail.com-blue?style=flat-square&logo=gmail&logoColor=EA4335"></a>
 </p>
