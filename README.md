@@ -55,12 +55,9 @@
   ![ECharts](https://img.shields.io/badge/-ECharts-333333?style=flat&logo=apacheecharts&logoColor=AA344D)
 
 - 🔧 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell&logoColor=FFD500)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx&logoColor=009639)
 
 - 🖥 &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
