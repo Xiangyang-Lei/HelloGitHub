@@ -41,7 +41,7 @@
 <br/>
 
 <a href="https://github.com/sunray-ley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunray-ley&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunray-ley&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunray-ley&theme=buefy&layout=compact" />
 </a>
 
@@ -50,5 +50,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="mailto:sunray.ley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sunray.ley@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:sunray.ley@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sunray.ley@gmail.com-blue?style=flat-square&logo=gmail"&logoColor=EA4335></a>
 </p>
