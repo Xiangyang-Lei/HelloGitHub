@@ -2,15 +2,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👋 &nbsp; Hi, I’m Sunray Ley
-
-- 👀 &nbsp; I’m interested in computer science
-
-- 🌱 &nbsp; I’m currently learning C++, Python and Java
-
-- 💞️ &nbsp; I’m looking to collaborate on developing anything that will help people
-
-- 📫 &nbsp; How to reach me: sunray.ley@gmail.com
+<ul>
+  <li>👋 &nbsp; Hi, I’m Sunray Ley</li>
+  <li>👀 &nbsp; I’m interested in computer science</li>
+  <li>🌱 &nbsp; I’m currently learning C++, Python and Java</li>
+  <li>💞️ &nbsp; I’m looking to collaborate on developing anything that will help people</li>
+  <li>📫 &nbsp; How to reach me: <a href="mailto:sunray.ley@gmail.com">sunray.ley@gmail.com</a></li>
+</ul>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
