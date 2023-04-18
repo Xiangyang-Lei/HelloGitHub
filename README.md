@@ -65,7 +65,7 @@
 <br/>
 
 <a href="https://github.com/sunray-ley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunray-ley&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunray-ley&theme=buefy&show_icons=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunray-ley&theme=buefy&layout=compact" />
 </a>
 
