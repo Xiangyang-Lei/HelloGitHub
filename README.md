@@ -17,7 +17,7 @@
     <img alt="C++" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C">
     <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB">
     <img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFFFFF">
-    <img alt="C#" src="https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=239120">
+    <img alt="C#" src="https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp&logoColor=239120">
     <img alt="Go" src="https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=00ADD8">
     <img alt="Rust" src="https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=000000">
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E">
