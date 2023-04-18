@@ -14,7 +14,7 @@
 
 <ul>
   <li>💻 &nbsp;
-    <img alt="C++" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C">
+    <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=cplusplus&logoColor=00599C">
     <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB">
     <img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFFFFF">
     <img alt="C#" src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120">
