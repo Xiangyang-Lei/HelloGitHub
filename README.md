@@ -43,6 +43,9 @@
     <img alt="Redis" src="https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D">
   </li>
   <li>⚙️ &nbsp;
+    <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx&logoColor=009639">
+  </li>
+  <li>🔧 &nbsp;
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26">
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6">
     <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD">
@@ -53,13 +56,10 @@
     <img alt="Element" src="https://img.shields.io/badge/-Element-333333?style=flat&logo=vuedotjs&logoColor=4FC08D">
     <img alt="ECharts" src="https://img.shields.io/badge/-ECharts-333333?style=flat&logo=apacheecharts&logoColor=AA344D">
   </li>
-  <li>🔧 &nbsp;
-    <img alt="Shell" src="https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnubash&logoColor=4EAA25">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED">
-    <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx&logoColor=009639">
-  </li>
   <li>🖥 &nbsp;
     <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032">
+    <img alt="Shell" src="https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnubash&logoColor=4EAA25">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED">
   </li>
 </ul>
 
