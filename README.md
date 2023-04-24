@@ -51,10 +51,10 @@
     <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD">
     <img alt="React" src="https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB">
     <img alt="Vue" src="https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs&logoColor=4FC08D">
-    <img alt="Electron" src="https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=47848F">
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031">
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=7952B3">
-    <img alt="Element" src="https://img.shields.io/badge/-Element-333333?style=flat&logo=vuedotjs&logoColor=4FC08D">
-    <img alt="ECharts" src="https://img.shields.io/badge/-ECharts-333333?style=flat&logo=apacheecharts&logoColor=AA344D">
+    <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=06B6D4">
+    <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-333333?style=flat&logo=bulma&logoColor=00D1B2">
   </li>
   <li>🖥 &nbsp;
     <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032">
