@@ -37,13 +37,13 @@
   </li>
   <li>🛢 &nbsp;
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1">
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1">
     <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57">
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248">
-    <img alt="Redis" src="https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D">
   </li>
   <li>⚙️ &nbsp;
     <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx&logoColor=009639">
+    <img alt="Redis" src="https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D">
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq&logoColor=FF6600">
   </li>
   <li>🔧 &nbsp;
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26">
