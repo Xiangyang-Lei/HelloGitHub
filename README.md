@@ -5,7 +5,7 @@
 <ul>
   <li>👋 &nbsp; Hi, I’m Sunray Ley</li>
   <li>👀 &nbsp; I’m interested in computer science</li>
-  <li>🌱 &nbsp; I’m currently learning C++, Python and Java</li>
+  <li>🌱 &nbsp; I’m currently studying C++, Python and Java</li>
   <li>💞️ &nbsp; I’m looking to collaborate on developing anything that will help people</li>
   <li>📫 &nbsp; How to reach me: <a href="mailto:sunray.ley@gmail.com">sunray.ley@gmail.com</a></li>
 </ul>
@@ -30,20 +30,20 @@
     <img alt="Spring" src="https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F">
     <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-333333?style=flat&logo=dotnet&logoColor=512BD4">
     <img alt="Gin" src="https://img.shields.io/badge/-Gin-333333?style=flat&logo=go&logoColor=00ADD8">
-    <img alt="Actix Web" src="https://img.shields.io/badge/-Actix%20Web-333333?style=flat&logo=rust&logoColor=000000">
+    <img alt="Actix" src="https://img.shields.io/badge/-Actix-333333?style=flat&logo=rust&logoColor=000000">
     <img alt="Express" src="https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=000000">
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20">
     <img alt="Rails" src="https://img.shields.io/badge/-Rails-333333?style=flat&logo=rubyonrails&logoColor=CC0000">
   </li>
   <li>🛢 &nbsp;
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1">
-    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57">
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248">
+    <img alt="Redis" src="https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D">
   </li>
   <li>⚙️ &nbsp;
+    <img alt="Shell" src="https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnubash&logoColor=4EAA25">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED">
     <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx&logoColor=009639">
-    <img alt="Redis" src="https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D">
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq&logoColor=FF6600">
   </li>
   <li>🔧 &nbsp;
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26">
@@ -58,8 +58,6 @@
   </li>
   <li>🖥 &nbsp;
     <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032">
-    <img alt="Shell" src="https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnubash&logoColor=4EAA25">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED">
   </li>
 </ul>
 
