@@ -28,9 +28,9 @@
     <img alt="Qt" src="https://img.shields.io/badge/-Qt-333333?style=flat&logo=qt&logoColor=41CD52">
     <img alt="Django" src="https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20">
     <img alt="Spring" src="https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F">
-    <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-333333?style=flat&logo=dotnet&logoColor=512BD4">
+    <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=dotnet&logoColor=512BD4">
     <img alt="Gin" src="https://img.shields.io/badge/-Gin-333333?style=flat&logo=go&logoColor=00ADD8">
-    <img alt="Actix" src="https://img.shields.io/badge/-Actix-333333?style=flat&logo=rust&logoColor=000000">
+    <img alt="Axum" src="https://img.shields.io/badge/-Axum-333333?style=flat&logo=rust&logoColor=000000">
     <img alt="Express" src="https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=000000">
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20">
     <img alt="Rails" src="https://img.shields.io/badge/-Rails-333333?style=flat&logo=rubyonrails&logoColor=CC0000">
